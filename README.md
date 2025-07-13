@@ -9,10 +9,7 @@ O projeto foi construído com as seguintes tecnologias:
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6+)**
-- **Node.js**
 - **OpenAI API**
-- **Showdown.js** (para renderização Markdown)
-- **[Rocketseat Explorer/Expert Stack]**
 
 > Algumas funcionalidades podem requerer a chave de API da OpenAI para uso completo da IA no frontend.
 
@@ -24,9 +21,34 @@ O projeto foi construído com as seguintes tecnologias:
 - ✅ Conversão de markdown para HTML na resposta da IA  
 - ✅ Personalização visual com tema moderno  
 
-## 📸 Demonstração
+## 📁 Como executar o projeto localmente
 
-> Adicione aqui um gif ou imagem mostrando a interface da aplicação.
+- git clone https://github.com/ArthurLimaQz/NLW.git
 
-```bash
-📸 Em breve uma demonstração!
+- Abra o index.html no navegador ou utilize uma extensão como Live Server no VSCode.
+
+- Adicione sua chave da OpenAI
+
+- No campo de entrada de chave, cole a sua API Key da OpenAI para liberar as perguntas.
+
+- ## 🔑 Obtenha uma API Key
+- 
+Você pode gerar uma chave de API gratuitamente em:
+👉 https://platform.openai.com/account/api-keys
+
+## 🧠 Aprendizados
+Durante a NLW Agents, aprendi a:
+
+Integrar APIs de IA com frontend moderno
+
+Manipular e renderizar Markdown no navegador
+
+Trabalhar com boas práticas de UX/UI em projetos com IA
+
+Explorar ferramentas do ecossistema JavaScript moderno
+
+## 📌 Sobre
+Este projeto foi desenvolvido como parte da imersão NLW Agents promovida pela Rocketseat.
+
+Autor: Arthur Lima Queiroz
+GitHub: @ArthurLimaQz
